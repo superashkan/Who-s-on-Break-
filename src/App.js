@@ -6,14 +6,7 @@ import Login from './screens/Login';
 export default function App() {
   return (
     <View style={styles.container}>
-<<<<<<< HEAD
       <Text>Test</Text>
-
-=======
-      <Text>GG boys
-
-      </Text>
->>>>>>> origin/feature
       <StatusBar style="auto" />
     </View>
   );
